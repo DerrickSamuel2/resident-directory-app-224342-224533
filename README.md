@@ -1,1 +1,3 @@
-# resident-directory-app-224342-224533
+# Project Repository
+
+This is the initial README file for the project.
